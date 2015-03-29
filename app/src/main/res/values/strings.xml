@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hikeathon</string>
+
+    <string name="enter_string">Enter anything</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send</string>
+</resources>
